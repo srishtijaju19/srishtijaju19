@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Srishti! I have experience as Data Scientist for over 5 years, interested in all things Data Science
+My name is Srishti! Interested in all things Data Science
 - 🔭  
 - 🌱 
 - 📫 How to reach me: ...
