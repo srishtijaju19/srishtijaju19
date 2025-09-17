@@ -3,7 +3,7 @@
 My name is Srishti! Interested in all things Data Science
 - 🔭  
 - 🌱 
-- 📫 How to reach me: ...
+- 📫
 - 😄 Pronouns: she/her
 
 
