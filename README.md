@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Srishti! I have experience as Data Scientist for over 5 years, interested in all things Data Science
+- 🔭  
+- 🌱 
+- 📫 How to reach me: ...
+- 😄 Pronouns: she/her
+
+
 <!--
 **srishtijaju19/srishtijaju19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
