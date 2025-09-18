@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-My name is Srishti! Interested in all things Data Science
-- 🔭  
-- 🌱 
-- 📫
-- 😄 Pronouns: she/her
+My name is Srishti!
+👩‍💻 Data Scientist with 5+ years of turning messy datasets into stories that actually make sense.
+⚡ Skilled in SQL, Python, Tableau, and making KPIs look cooler than they sound.
+📊 From experimentation to predictive modeling, I help teams make smarter product decisions (and avoid bad ones).
 
 
 <!--
