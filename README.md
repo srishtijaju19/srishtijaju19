@@ -11,9 +11,6 @@ My name is Srishti!
 - Database: PostgreSQL, MySQL
 - Visualization: Tableau
 
-👋🏻 Connect with Me
-- Linkedin https://www.linkedin.com/in/srishtijaju/
-
 
 <!--
 **srishtijaju19/srishtijaju19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
